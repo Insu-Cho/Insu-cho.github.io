@@ -2,13 +2,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>http://localhost:1313/docs/intro/</loc>
+      <loc>/docs/intro/</loc>
       <lastmod>2023-09-07T16:06:50+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     <url>
-        <loc>http://localhost:1313/docs/intro/hello/</loc>
+        <loc>/docs/intro/hello/</loc>
         <lastmod>2024-05-06T20:23:24+09:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>

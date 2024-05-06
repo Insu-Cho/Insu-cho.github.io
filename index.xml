@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ISC&#39; Blog on ISC&#39;s Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>/</link>
     <description>Recent content in ISC&#39; Blog on ISC&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>ko</language>
     <copyright>Copyright (c) 2020-2024 Hyas</copyright>
     <lastBuildDate>Mon, 06 May 2024 21:18:21 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog 구축 썰</title>
-      <link>http://localhost:1313/blog/blog-%EA%B5%AC%EC%B6%95-%EC%8D%B0/</link>
+      <link>/blog/blog-%EA%B5%AC%EC%B6%95-%EC%8D%B0/</link>
       <pubDate>Mon, 06 May 2024 21:18:21 +0900</pubDate>
-      <guid>http://localhost:1313/blog/blog-%EA%B5%AC%EC%B6%95-%EC%8D%B0/</guid>
+      <guid>/blog/blog-%EA%B5%AC%EC%B6%95-%EC%8D%B0/</guid>
       <description>다사다난하지 않은 Blog 제작기</description>
     </item>
     <item>
       <title>Hello</title>
-      <link>http://localhost:1313/docs/intro/hello/</link>
+      <link>/docs/intro/hello/</link>
       <pubDate>Mon, 06 May 2024 20:23:24 +0900</pubDate>
-      <guid>http://localhost:1313/docs/intro/hello/</guid>
+      <guid>/docs/intro/hello/</guid>
       <description>Wiki 안내 페이지</description>
     </item>
     <item>
       <title>Privacy Policy</title>
-      <link>http://localhost:1313/privacy/</link>
+      <link>/privacy/</link>
       <pubDate>Thu, 07 Sep 2023 17:19:07 +0200</pubDate>
-      <guid>http://localhost:1313/privacy/</guid>
+      <guid>/privacy/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,7 +2,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>http://localhost:1313/blog/blog-%EA%B5%AC%EC%B6%95-%EC%8D%B0/</loc>
+      <loc>/blog/blog-%EA%B5%AC%EC%B6%95-%EC%8D%B0/</loc>
       <lastmod>2024-05-06T21:18:21+09:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
