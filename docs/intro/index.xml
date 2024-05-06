@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>INTRO on ISC&#39;s Blog</title>
+    <link>/docs/intro/</link>
+    <description>Recent content in INTRO on ISC&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>ko</language>
+    <copyright>Copyright (c) 2020-2024 Hyas</copyright>
+    <lastBuildDate>Mon, 06 May 2024 20:23:24 +0900</lastBuildDate>
+    <atom:link href="/docs/intro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>/docs/intro/hello/</link>
+      <pubDate>Mon, 06 May 2024 20:23:24 +0900</pubDate>
+      <guid>/docs/intro/hello/</guid>
+      <description>Wiki 안내 페이지</description>
+    </item>
+  </channel>
+</rss>
