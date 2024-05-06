@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on ISC&#39;s Blog</title>
-    <link>/tags/hugo/</link>
+    <link>http://localhost:1313/tags/hugo/</link>
     <description>Recent content in Hugo on ISC&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>ko</language>
     <copyright>Copyright (c) 2020-2024 Hyas</copyright>
     <lastBuildDate>Mon, 06 May 2024 21:18:21 +0900</lastBuildDate>
-    <atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog 구축 썰</title>
-      <link>/blog/blog-%EA%B5%AC%EC%B6%95-%EC%8D%B0/</link>
+      <link>http://localhost:1313/blog/blog-%EA%B5%AC%EC%B6%95-%EC%8D%B0/</link>
       <pubDate>Mon, 06 May 2024 21:18:21 +0900</pubDate>
-      <guid>/blog/blog-%EA%B5%AC%EC%B6%95-%EC%8D%B0/</guid>
+      <guid>http://localhost:1313/blog/blog-%EA%B5%AC%EC%B6%95-%EC%8D%B0/</guid>
       <description>다사다난하지 않은 Blog 제작기</description>
     </item>
   </channel>
